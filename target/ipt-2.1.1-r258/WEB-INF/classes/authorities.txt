@@ -1,0 +1,43 @@
+﻿AMVA,Área Metropolitana del Valle de Aburrá
+ANLA,Autoridad Nacional de Licencias Ambientales
+CAM ,Corporación Autónoma del Alto Magdalena
+CORANTIOQUIA,Corporación Autónoma Regional de Antioquia
+CORPOBOYACA,Corporación Autónoma Regional de Boyacá
+CORPOCALDAS,Corporación Autónoma Regional de Caldas
+CORPOCHIVOR,Corporación Autónoma Regional de Chivor
+CAR,Corporación Autónoma Regional de Cundinamarca
+CORPONOR,Corporación Autónoma Regional de La Frontera Nororiental 
+CORPOGUAJIRA,Corporación Autónoma Regional de La Guajira
+CORPORINOQUIA,Corporación Autónoma Regional de La Orinoquía
+CORNARE,Corporación Autónoma Regional de las Cuencas de los Ríos Negro-Nare
+CVS,Corporación Autónoma Regional de los Valles del Sinú y del San Jorge
+CORPONARIÑO,Corporación Autónoma Regional de Nariño 
+CAS,Corporación Autónoma Regional de Santander 
+CARSUCRE,Corporación Autónoma Regional de Sucre
+CRA,Corporación Autónoma Regional del Atlántico
+CARDIQUE,Corporación Autónoma Regional del Canal del Dique 
+CRC,Corporación Autónoma Regional del Cauca
+CORPOCESAR,Corporación Autónoma Regional del Cesar
+CORPOGUAVIO,Corporación Autónoma Regional del Guavio
+CORPAMAG,Corporación Autónoma Regional del Magdalena
+CRQ,Corporación Autónoma Regional del Quindío
+CORMAGDALENA,Corporación Autonoma Regional del Río Grande de La Magdalena
+CARDER,Corporación Autónoma Regional del Risaralda 
+CSB ,Corporación Autónoma Regional del Sur de Bolivar
+CORTOLIMA,Corporación Autónoma Regional del Tolima
+CVC,Corporación Autónoma Regional del Valle del Cauca
+CODECHOCO,Corporación Autonoma Regional para el Desarrollo Sostenible del Chocó
+CDMB,Corporación Autónoma Regional para la defensa de la Meseta de Bucaramanga
+CORPOMOJANA,Corporación para el Desarrollo Sostenible de La Mojana y El San Jorge
+CORALINA,"Corporación para el Desarrollo Sostenible del Archipiélago de San Andres, Providencia y Santa Catalina"
+CORMACARENA,Corporación para el Desarrollo Sostenible del Área de Manejo Especial de La Macarena
+CDA,Corporación para el Desarrollo Sostenible del Norte y Oriente Amazónico
+CORPOAMAZONIA,Corporación para el Desarrollo Sostenible del Sur de La Amazonía
+CORPOURABA,Corporación para el Desarrollo Sostenible del Urabá
+DAGMA,Departamento Administrativo de Gestión del Medio Ambiente
+DADMA,Departamento Administrativo Distrital del Medio Ambiente 
+DAMAB,Departamento Técnico Administrativo del Medio Ambiente Barranquilla
+EPA,Establecimiento Público Ambiental de Cartagena
+MADS,Ministerio de Ambiente y Desarrollo Sostenible
+UAESPNN,Parques nacionales naturales de Colombia
+SDA,Secretaría Distrital de Ambiente

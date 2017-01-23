@@ -1,0 +1,73 @@
+/*
+ For css overrides needed for customizations.
+ By having this separate file for css overrides, it should be easier to backup and restore customizations.
+ If some organization want to style the IPT to their own branding and they want to support more backward compatibility
+ they can create their own modernizr.js with the desired supported elements. They only have to replace the 'default'
+ file with their own.
+*/
+a {
+  font-weight: normal;
+  color: #1C4C5C;
+}
+a.imglink {
+  font-size: medium;
+}
+a.overlink {
+  font-size: medium;
+}
+a:visited{ color: #007094;}
+.green{
+  color: #008959;
+}
+#region-menu nav ul li.current {
+  background-color: #AADFF2; 
+}
+#region-content h1 {
+  color: #29ABE2;
+}
+div.groupmenu ul li a {
+}
+table.dataTable thead{
+  padding: 10px;
+}
+.dataTables_filter {
+}
+tr.even td.sorting_1 {
+  background-color: #E6F5EB;
+}
+.actionMessage{
+  color: #008959;
+  background-color: #dbf0e8;
+}
+#zone-content{
+}
+h1{
+  margin-bottom: 0px;
+}
+#region-menu{
+  font-size: 1.15em;
+margin-top: 60px;
+height: 90px;
+width: 505px;
+padding-right: 20px;
+}
+
+div.resourceOverview .bodyOverview p{
+  font-size: 0.95em !important;
+}
+#setup h2{
+   -moz-border-radius: 0 0 20px 20px ;
+  border-radius: 0 0 20px 20px ;
+  background:rgba(255,255,255, 0.2);
+  -webkit-box-shadow:  0px 0px 10px 0px rgba(200, 200, 200, 0.2);
+  box-shadow:  0px 0px 10px 0px rgba(200, 200, 200, 0.2);
+  padding:25px;
+}
+body{ font-size: 75%; line-height: 1.4em;}
+#region-content h1{text-transform: none;}
+p+form{
+  -moz-border-radius: 20px !important;
+  border-radius: 20px !important ;
+}
+.round h1{-moz-border-radius: 20px ;
+  border-radius: 20px !important ;}
